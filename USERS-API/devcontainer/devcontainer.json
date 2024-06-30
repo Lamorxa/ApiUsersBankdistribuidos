@@ -1,0 +1,21 @@
+{
+    "name": "Container User api",
+    "build": {
+        "dockerfile": "Dockerfile",
+        "context": "../.."   
+    },
+    "settings": {
+        "terminal.integrated.shell.linux": "/bin/bash"
+    },
+    "extensions": [
+        "ms-vscode.cpptools",
+        "ms-vscode.cmake-tools",
+        "ms-azuretools.vscode-docker"
+    ],
+    "forwardPorts": [
+        80
+    ],
+    "postCreateCommand": "apt-get update && apt-get install -y cmake",
+    "remoteUser": "root",
+    "workspaceFolder": "/usr/src/myapp"
+}
