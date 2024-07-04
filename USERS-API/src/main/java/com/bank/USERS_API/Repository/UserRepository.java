@@ -13,7 +13,7 @@ import java.util.List;
 @Repository
 public class UserRepository {
     private final ObjectMapper mapper =new ObjectMapper();
-    private final String filePathBank1 ="C:\\Users\\user\\Documents\\SpringProyects\\USERS-API\\src\\main\\resources\\userdata.json";
+    private final String filePathBank1 ="C:\\Users\\Sebas\\Documents\\GitHub\\ApiUsersBankdistribuidos\\USERS-API\\src\\main\\resources\\userdata.json";
 
     public UserEntity getUserByID(int userID) throws  IOException {
     List<UserEntity> Users=getAllUsers();

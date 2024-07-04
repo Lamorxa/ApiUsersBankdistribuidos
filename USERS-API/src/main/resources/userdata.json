@@ -1,18 +1,74 @@
 [
-        {
-            "name": "Marco Antonio Arias Mullisaca",
-            "username":"75234779",
-            "password":"12345",
-            "userId":"102"
-
-        },
-        {
-            "name": "Dota 2",
-            "username":"79634857",
-            "password":"12345",
-            "userId":"106"
-
-
-        }
-
+    {
+        "name": "Marco Antonio Arias Mullisaca",
+        "username": "75234779",
+        "password": "12345",
+        "userId": "101"
+    },
+    {
+        "name": "Juan Jose Gimenez",
+        "username": "79634857",
+        "password": "12345",
+        "userId": "102"
+    },
+    {
+        "name": "Ana Martínez",
+        "username": "87429153",
+        "password": "clave123",
+        "userId": "103"
+    },
+    {
+        "name": "Juan López",
+        "username": "62984710",
+        "password": "segura456",
+        "userId": "104"
+    },
+    {
+        "name": "María García",
+        "username": "31548972",
+        "password": "secreta789",
+        "userId": "105"
+    },
+    {
+        "name": "Carlos Rodríguez",
+        "username": "57291084",
+        "password": "contraseña321",
+        "userId": "106"
+    },
+    {
+        "name": "Laura Fernández",
+        "username": "92683745",
+        "password": "seguridad2024",
+        "userId": "107"
+    },
+    {
+        "name": "Pedro Martín",
+        "username": "48192376",
+        "password": "acceso123",
+        "userId": "108"
+    },
+    {
+        "name": "Sofía Pérez",
+        "username": "76321985",
+        "password": "privado456",
+        "userId": "109"
+    },
+    {
+        "name": "Jorge Ruiz",
+        "username": "37264819",
+        "password": "secreto789",
+        "userId": "110"
+    },
+    {
+        "name": "Elena Sánchez",
+        "username": "91538276",
+        "password": "clave321",
+        "userId": "111"
+    },
+    {
+        "name": "David Gómez",
+        "username": "58470123",
+        "password": "segura2024",
+        "userId": "112"
+    }
 ]
